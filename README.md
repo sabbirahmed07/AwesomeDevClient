@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+This project live url is at: [https://awesomedevs.onrender.com/](url)
+
 ![image](https://github.com/sabbirahmed07/AwesomeDevClient/assets/24037683/bb18de1f-8116-4984-ae22-2bcad492936b)
 
 
